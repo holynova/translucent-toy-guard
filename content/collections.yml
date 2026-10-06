@@ -1,0 +1,13 @@
+collections:
+  - id: armor
+    title: 战甲与骑士
+    description: 分层甲片、圆盾与透明头盔。
+    order: 1
+  - id: uniform
+    title: 制服与仪仗
+    description: 模压制服、绳饰与仪仗装备。
+    order: 2
+  - id: specialist
+    title: 特勤与探索
+    description: 飞行、潜水、消防与太空装备。
+    order: 3

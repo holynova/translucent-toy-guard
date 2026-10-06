@@ -1,0 +1,86 @@
+{
+  "image_directory": "incoming",
+  "images": [
+    {
+      "source": "01.png",
+      "bytes": 2376679
+    },
+    {
+      "source": "02.png",
+      "bytes": 2347980
+    },
+    {
+      "source": "03.png",
+      "bytes": 2320822
+    },
+    {
+      "source": "04.png",
+      "bytes": 2177769
+    },
+    {
+      "source": "05.png",
+      "bytes": 2161546
+    },
+    {
+      "source": "06.png",
+      "bytes": 2241853
+    },
+    {
+      "source": "07.png",
+      "bytes": 2141920
+    },
+    {
+      "source": "08.png",
+      "bytes": 2135311
+    },
+    {
+      "source": "09.png",
+      "bytes": 2219018
+    },
+    {
+      "source": "10.png",
+      "bytes": 2407805
+    },
+    {
+      "source": "11.png",
+      "bytes": 2286437
+    },
+    {
+      "source": "12.png",
+      "bytes": 2192030
+    },
+    {
+      "source": "13.png",
+      "bytes": 2286694
+    },
+    {
+      "source": "14.png",
+      "bytes": 2369567
+    },
+    {
+      "source": "15.png",
+      "bytes": 2308455
+    },
+    {
+      "source": "16.png",
+      "bytes": 2217410
+    },
+    {
+      "source": "17.png",
+      "bytes": 2378631
+    },
+    {
+      "source": "18.png",
+      "bytes": 2370100
+    },
+    {
+      "source": "19.png",
+      "bytes": 2406462
+    },
+    {
+      "source": "20.png",
+      "bytes": 2377711
+    }
+  ],
+  "skipped_non_images": []
+}

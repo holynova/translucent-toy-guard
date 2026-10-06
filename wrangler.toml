@@ -1,0 +1,8 @@
+name = "translucent-toy-guard"
+account_id = "ef7863c4de93e71c3496f940c8ab4865"
+compatibility_date = "2026-10-05"
+workers_dev = false
+routes = [{ pattern = "translucent-toy-guard.xiaosang.cc/*", zone_name = "xiaosang.cc" }]
+
+[assets]
+directory = "./dist"

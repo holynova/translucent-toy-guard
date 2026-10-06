@@ -1,0 +1,26 @@
+title: 半透明玩具兵 · TRANSLUCENT
+description: 20 个卡通角色，20 套制服与盔甲。磨砂透明甲壳、鲜亮撞色与精密装备，组成一支收藏玩具军团。
+language: zh-CN
+style:
+  theme: minimal
+features:
+  download: false
+  share: true
+layout:
+  mode: grid
+  batchSize: 24
+  maxOutputBytes: 100000000
+  thumbWidths:
+    - 480
+    - 768
+  detailWidths:
+    - 960
+    - 1440
+    - 1920
+  quality:
+    avif: 55
+    webp: 78
+    jpeg: 84
+analytics:
+  enabled: true
+  provider: umami
