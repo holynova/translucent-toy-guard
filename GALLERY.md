@@ -8,3 +8,5 @@
 - 发布版开启统一Umami统计，默认关闭下载、开启分享；仅部署dist，原始PNG不会上传Cloudflare静态站。
 - 已通过ingest/validate、Astro check、7个测试、build；生成300个派生文件。
 - 正式地址：https://translucent-toy-guard.xiaosang.cc/。
+
+用户明确要求v0.1.2详情图按屏幕高度完整适配：灯箱采用自动工具栏、可收缩图片区、自动底栏三行；图片使用可用高度等比缩放。这是用户授权的灯箱局部定制，不声明CSS与原模板一致。
